@@ -40,5 +40,6 @@ python industrial_jaw_dropper_test.py
 ## 📜 Mathematical Foundation & Publications
 The complete mathematical proofs, Finslerian metric derivations, and system benchmarks behind this architecture can be reviewed in the accompanying LaTeX publication source file: `hmt_manuscript.tex`.
 
-## 🔏 Licensing
-Licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0).
+## 📜 Licensing
+This project is open-source software licensed under the [MIT License](LICENSE).
+
