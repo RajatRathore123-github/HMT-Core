@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+real_world_stress_test_results.png
+industrial_jaw_dropper_results.png
